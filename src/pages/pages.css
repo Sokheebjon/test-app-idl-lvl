@@ -1,0 +1,30 @@
+h2 {
+    width: 100%;
+    border-bottom: 2px solid #551A8B;
+    padding-bottom: 10px;
+}
+
+.home {
+    width: 100%;
+    min-height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.home h1 {
+    font-size: 45px;
+}
+
+.available_message {
+    background-color: #17a2b8;
+    width: 100%;
+    border-radius: 10px;
+    height: 10vh;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px7;
+}
